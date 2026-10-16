@@ -1,0 +1,11 @@
+date,customer,status,region,revenue,units
+2025-01-01,A,active,North,100,2
+2025-01-03,B,cancelled,South,200,4
+2025-01-08,C,active,North,150,3
+2025-01-15,D,active,South,50,1
+2025-02-01,E,cancelled,North,300,6
+2025-02-02,F,active,South,120,2
+2025-02-12,G,active,North,80,2
+2025-02-20,H,active,South,,1
+2025-03-01,I,active,North,1000,20
+bad-date,J,active,South,70,1
